@@ -1,8 +1,6 @@
 ---
-{"dg-publish":true,"permalink":"/3/digital-garden-home/","tags":["gardenEntry"]}
+{"dg-publish":true,"permalink":"/3/digital-garden-home/","tags":["gardenEntry"],"created":"2025-04-07T00:31:53.941+09:00"}
 ---
-
-# Vault of Woongro Youn
 
 ## Welcome!
 
@@ -16,6 +14,7 @@
  
 
 ### Lecture review
+
 
 
 
