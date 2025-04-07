@@ -61,8 +61,13 @@
 
 ---------
 ### Solution
-- A1) (f: femto)$$S_{v}=2f \; [V^{2}/Hz]$$$$S_{f}=K_{VCO}^{2} f_{v} \; [Hz^{2}/Hz]$$$$S_{\phi}=\frac{S_{f}}{f^{2}}\; [rad^{2}/Hz]$$$$PN=10\cdot log_{10}(\frac{S_{\phi}(f)}{2})\; [dBc/Hz]$$
-- A2) $$10*log10(VN2(something)*VAR("KVCO")**2/(xval(VN2(something))**2)/2)$$
+- A1)
+	- $S_{v}=2f \; [V^{2}/Hz]$ (f: femto)
+	- $S_{f}=K_{VCO}^{2} f_{v} \; [Hz^{2}/Hz]$
+	- $S_{\phi}=\frac{S_{f}}{f^{2}}\; [rad^{2}/Hz]$
+	- $PN=10\cdot log_{10}(\frac{S_{\phi}(f)}{2})\; [dBc/Hz]$
+- A2) 
+	- $10*log10(VN2(something)*VAR("KVCO")**2/(xval(VN2(something))**2)/2)$
 	- 축이 다르기에 달라 보일 수 있음 $\Rightarrow$ 축 값을 수정하면 딱 맞는다.
 	- 앞에서 언급했듯이 oscillating freq.인 10MHz의 절반 5MHz를 넘어서부터는 의미가 없는 phase noise 값이 나온다.
 ![Pasted image 20250407123922.png|center](/img/user/0.%20TOOLS/00.%20Attechments/Pasted%20image%2020250407123922.png)
