@@ -25,6 +25,8 @@
 ## Thoughts
 
 ### Manuals
+#### Simulation
+[[5. Digital Garden/Published/Manuals/Manual. Voltage noise to phase noise conversion\|Manual. Voltage noise to phase noise conversion]]
 
 ### Memo about Something
 
