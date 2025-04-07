@@ -7,8 +7,6 @@
 [[5. Digital Garden/Published/사담/Before dive in\|Before dive in]]
 [[5. Digital Garden/Published/template test\|template test]]
 
-- 본론으로 들어가기전에
-- 소프트웨어에 비하여 하드웨어 
 
 ---------------
 ## Study
@@ -25,4 +23,8 @@
 
 ---------------
 ## Thoughts
+
+### Manuals
+
 ### Memo about Something
+
