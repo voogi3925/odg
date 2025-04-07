@@ -4,7 +4,8 @@
 
 ### Welcome
 
-[[들어가기에 앞서서,\|들어가기에 앞서서,]]
+[[5. Digital Garden/Published/들어가기에 앞서서\|들어가기에 앞서서]]
+[[5. Digital Garden/Published/template test\|template test]]
 
 - 본론으로 들어가기전에
 - 소프트웨어에 비하여 하드웨어 
