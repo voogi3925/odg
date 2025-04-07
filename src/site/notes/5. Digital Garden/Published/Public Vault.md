@@ -4,7 +4,6 @@
 
 ### Welcome
 
-[[5. Digital Garden/Published/사담/들어가기에 앞서서\|들어가기에 앞서서]]
 [[5. Digital Garden/Published/사담/Before dive in\|Before dive in]]
 [[5. Digital Garden/Published/template test\|template test]]
 
