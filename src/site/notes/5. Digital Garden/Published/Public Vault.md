@@ -12,7 +12,6 @@
 ## Study
 ### Paper review
 
-
 [[2. 문헌 메모/Summary/Papers/A 0.35-V 5,200-μm2 2.1-MHz Temperature-Resilient Relaxation Oscillator With 667 fJ per Cycle Energy Efficiency Using an Asymmetric Swing-Boosted RC Network and a Dual-Path Comparator\|TEST LINK]]
  
 
@@ -25,8 +24,15 @@
 ## Thoughts
 
 ### Manuals
+- [[5. Digital Garden/Published/Papers/Papers List - PLL FLL Basic\|Papers List - PLL FLL Basic]]
+
 #### Simulation
-[[5. Digital Garden/Published/Manuals/Manual. Voltage noise to phase noise conversion\|Manual. Voltage noise to phase noise conversion]]
+- [[5. Digital Garden/Published/Manuals/Manual. Voltage noise to phase noise conversion\|Manual. Voltage noise to phase noise conversion]]
 
 ### Memo about Something
 
+
+---------------
+### Contact
+- Email: voogi3925@gmail.com
+- 
