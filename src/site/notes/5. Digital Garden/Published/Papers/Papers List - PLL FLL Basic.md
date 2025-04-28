@@ -39,8 +39,13 @@
 	- 해당 방법으로 얼마나 수치적으로 향상되었지?
 	- 다른 previous work들과 비교하면 어떻지?
 - Realtime clock generation
+	- 5.8 A 4.7nW 13.8ppm/°C self-biased wakeup timer using a switched-resistor scheme
+		- 2016, ISSCC
+		- Taekwang Jang & Dennis Sylvester
 - Temperature sensor
-- Clock glitch detector
+	- A 0.9-V 6400-μm2 Resistor-Based Temperature Sensor With a One-Point Trimmed 3σ Inaccuracy of ±0.64 ◦C from −50 ◦C to 125 ◦C
+		- 2023, TCAS-2
+		- Yongtae Lee & Youngcheol Chae
 
 ---------------------------------
 - 그 후에는.... ISSCC 2025 PLL/FLL이 내용적으로 쓰인 work들 전부 리뷰하자.
