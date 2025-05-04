@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-digital-garden/published//before-dive-in/","created":"2025-04-07T09:30:14.738+09:00"}
+{"dg-publish":true,"permalink":"/5-digital-garden/published//before-dive-in/","created":"2025-04-08T16:33:26.443+09:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-digital-garden/published/manuals/manual-voltage-noise-to-phase-noise-conversion/","tags":["phase_noise","voltage_noise","oscillator"],"created":"2025-04-07T10:38:36.095+09:00"}
+{"dg-publish":true,"permalink":"/5-digital-garden/published/manuals/manual-voltage-noise-to-phase-noise-conversion/","tags":["phase_noise","voltage_noise","oscillator"],"created":"2025-04-08T16:33:26.443+09:00"}
 ---
 
 
