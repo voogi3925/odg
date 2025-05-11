@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-digital-garden/published/public-vault/","tags":["gardenEntry"],"created":"2025-04-08T16:33:25.248+09:00"}
+{"dg-publish":true,"permalink":"/5-digital-garden/published/public-vault/","tags":["gardenEntry"],"created":"2025-04-07T00:32:00.480+09:00"}
 ---
 
 ### Welcome
@@ -29,6 +29,7 @@
 
 #### Simulation
 - [[5. Digital Garden/Published/Manuals/Manual. Voltage noise to phase noise conversion\|Manual. Voltage noise to phase noise conversion]]
+- [[5. Digital Garden/Published/Manuals/Manual. Oscillator Design Practice\|Manual. Oscillator Design Practice]]
 
 ### Memo about Something
 
@@ -36,4 +37,4 @@
 ---------------
 ### Contact
 - Email: voogi3925@gmail.com
-- 
+- https://odg-voogi3925s-projects.vercel.app/

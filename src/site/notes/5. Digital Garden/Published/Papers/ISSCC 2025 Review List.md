@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-digital-garden/published/papers/isscc-2025-review-list/","created":"2025-05-04T14:15:17.018+09:00"}
+{"dg-publish":true,"permalink":"/5-digital-garden/published/papers/isscc-2025-review-list/","created":"2025-05-04T14:15:18.776+09:00"}
 ---
 
 

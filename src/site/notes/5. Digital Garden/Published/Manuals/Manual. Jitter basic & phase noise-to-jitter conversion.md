@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-digital-garden/published/manuals/manual-jitter-basic-and-phase-noise-to-jitter-conversion/","created":"2025-04-24T21:40:32.445+09:00"}
+{"dg-publish":true,"permalink":"/5-digital-garden/published/manuals/manual-jitter-basic-and-phase-noise-to-jitter-conversion/","created":"2025-04-24T13:30:58.878+09:00"}
 ---
 
 
