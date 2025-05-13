@@ -26,7 +26,7 @@
 ### Manuals
 - [[5. Digital Garden/Published/Papers/Papers List - PLL FLL Basic\|Papers List - PLL FLL Basic]]
 - [[5. Digital Garden/Published/Manuals/Manual. FoM of Osc.\|Manual. FoM of Osc.]]
-- [[1. 임시 메모/그 외 나머지/Memo/Manual. How to use server\|Manual. How to use server]]
+- [[5. Digital Garden/Published/Manuals/Manual. How to use server\|Manual. How to use server]]
 
 #### Simulation
 - [[5. Digital Garden/Published/Manuals/Manual. Voltage noise to phase noise conversion\|Manual. Voltage noise to phase noise conversion]]

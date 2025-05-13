@@ -55,6 +55,8 @@
 | PN @10MHz   | -118.93dBc/Hz | -118.93dBc/Hz | -118.93dBc/Hz |
 | FoM @10MHz  | 157.616dBc/Hz | 157.688dBc/Hz | 157.695dBc/Hz |
 
+----------------------------------------
+
 ### Simulator option - tolerance setting
 - Simulator의 option을 변경하여 tolerance와 gmin을 1/10 씩만 낮춰서 시뮬레이션을 돌려보자.
 	- ![Pasted image 20250513151948.png|center](/img/user/0.%20TOOLS/00.%20Attechments/Pasted%20image%2020250513151948.png)
@@ -71,6 +73,7 @@
 | PN @10MHz   | -118.93dBc/Hz          | -118.93dBc/Hz                 |
 | FoM @10MHz  | 157.695dBc/Hz          | 157.707dBc/Hz                 |
 
+------------------------------------------------------------
 
 ### Simulator option - Spectre APS simulator
 - APS simulator setting 
