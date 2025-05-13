@@ -21,3 +21,6 @@
 ## tips
 - 다른 서버에서 작업하다가 lock걸렸을 경우.
 	- LOCK 풀기 => 'clsAdminTool' 치고 'are .' 입력 그 후 'quit'로 나가기
+- 권한 없음이 뜨는 경우 ("Permission Denied")
+	- ls -al 로 파일 권한 확인
+	- 
