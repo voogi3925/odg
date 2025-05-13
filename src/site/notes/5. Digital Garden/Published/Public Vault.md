@@ -30,7 +30,8 @@
 
 #### Simulation
 - [[5. Digital Garden/Published/Manuals/Manual. Voltage noise to phase noise conversion\|Manual. Voltage noise to phase noise conversion]]
-- [[5. Digital Garden/Published/Manuals/Manual. Oscillator Design Practice\|Manual. Oscillator Design Practice]]
+- [[5. Digital Garden/Published/Manuals/Manual. Oscillator Design Practice - 1 (simulator guide)\|Manual. Oscillator Design Practice - 1 (simulator guide)]]
+- [[5. Digital Garden/Published/Manuals/Manual. Oscillator Design Practice - 2 (layout)\|Manual. Oscillator Design Practice - 2 (layout)]]
 
 ### Memo about Something
 
@@ -38,4 +39,5 @@
 ---------------
 ### Contact
 - Email: voogi3925@gmail.com
-- https://odg-voogi3925s-projects.vercel.app/
+- https://ywrodg.netlify.app/
+- https://odg-ebon.vercel.app/
