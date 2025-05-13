@@ -23,18 +23,20 @@
 
 - 해당 예제에서 phase noise 분석 방법:
 	- vcvs와 같은 ideal buffer를 통하여 oscillating 하는 output node를 뽑아내어, 해당 노드의 phase noise를 살펴본다.
-### Ring oscillator target
-- $f_{o} \approx 1GHz$
-- Power < 1mW & VDD = 1.8V
-- $FoM_{osc} > 161dBc/Hz \;when\;\Delta f=100MHz$
+### Ring oscillator 
+- Target
+	- $f_{o} \approx 1GHz$
+	- Power < 1mW & VDD = 1.8V
+	- $FoM_{osc} > 161dBc/Hz \;when\;\Delta f=100MHz$
 
-### LC oscillator target
-- $f_{o} \approx 2.4GHz$
-- Power < 10mW & VDD = 1.8V
-- $PN < -108 \;when\;\Delta f=1MHz$ & $PN < -131 \;when\;\Delta f=25MHz$
-- $FoM_{osc} > 180dBc/Hz \;when\;\Delta f=1MHz$
-- Inductor는 아래의 스펙으로 이용
-	- ![Pasted image 20250513142055.png|center](/img/user/0.%20TOOLS/00.%20Attechments/Pasted%20image%2020250513142055.png)
+### LC oscillator 
+- Target
+	- $f_{o} \approx 2.4GHz$
+	- Power < 10mW & VDD = 1.8V
+	- $PN < -108 \;when\;\Delta f=1MHz$ & $PN < -131 \;when\;\Delta f=25MHz$
+	- $FoM_{osc} > 180dBc/Hz \;when\;\Delta f=1MHz$
+	- Inductor는 아래의 스펙으로 이용
+		- ![Pasted image 20250513142055.png|center](/img/user/0.%20TOOLS/00.%20Attechments/Pasted%20image%2020250513142055.png)
 
 
 
