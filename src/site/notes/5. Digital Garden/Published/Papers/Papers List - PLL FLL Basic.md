@@ -34,10 +34,10 @@
 ----------------
 ## 다양한 Application 
 - 아래의 사항들을 유념하며 읽어보자.
-	- 왜 쓰여진 논문인가? 논문의 핵심 질문이 뭐지?
+	- 왜 쓰여진 논문인가? 논문의 핵심 질문(Research Question)이 무엇인가?
+		- 해당 질문의 배경에는 어떤 application이 있고, previous work이 존재하지?
 	- 어떤 방법으로 해결하였지?
 	- 해당 방법으로 얼마나 수치적으로 향상되었지?
-	- 다른 previous work들과 비교하면 어떻지?
 - Realtime clock generation
 	- 5.8 A 4.7nW 13.8ppm/°C self-biased wakeup timer using a switched-resistor scheme
 		- 2016, ISSCC
