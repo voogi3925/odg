@@ -10,7 +10,7 @@
 ---------------
 ## Study
 ### Paper review
-[[5. Digital Garden/Published/Papers/ISSCC 2025 Review List\|ISSCC 2025 Review List]]
+[[5. Digital Garden/Published/Papers/VLSI 2025 Review List\|VLSI 2025 Review List]]
 
 
 ### Lecture review
