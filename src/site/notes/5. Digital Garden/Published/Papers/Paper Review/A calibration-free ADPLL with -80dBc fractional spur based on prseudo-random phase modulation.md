@@ -1,0 +1,67 @@
+---
+{"dg-publish":true,"permalink":"/5-digital-garden/published/papers/paper-review/a-calibration-free-adpll-with-80d-bc-fractional-spur-based-on-prseudo-random-phase-modulation/","tags":["ADPLL","calibration_free","digital_phase_interpolator","pseudo_random_phase_modulation","digital_time_converter"],"created":"2025-06-21T15:13:04.210+09:00"}
+---
+
+--- 
+- Motivation & Thought: 
+	- 첨언/특이한 점/추가로 찾아볼 점:
+		- DPI의 non-linearity 자체를 줄이는 방향이 아니라 periodicity of FCW와 non-linearity를 decoupling 시키는 접근을 함.
+- Summary: 
+	- <mark style="background: #FFB86CA6;">하고자 한 바 (1문장으로)</mark>
+		- DTC의 non-linearity로 인한 fractional spur 문제를 해결하기 위하여, FCW (Freq. Control Word)와 DPI의 periodicity를 decoupling하였다. 
+		- 이는 서로 다른 2종류의 DPI (Digital Phase Interpolator)를 사용하여 pseudo-random하게 phase를 modulation/demodulation하는 technique로 해결하였다.
+	- <mark style="background: #FFB86CA6;">왜 쓰여진 논문인가.</mark>
+		- Target Application/문제 상황: 
+			- Fractional-N ADPLL은 communication systems와 radar systems 등에 이용됨.
+			- MMD만으로 에러를 줄이려면 TDC에 부담이 커짐. => DTC를 이용하여, 매 phase 마다 delay를 미세조정하여 FCW의 소숫점 부분을 반영함. 
+			- 하지만 DTC의 non-linearity로 인해 fractional spur가 생기고 이는 1) 전체 phase noise를 높임 2) mask requirement를 어김
+			- 기존 해결책은 문제가 있음
+				- linear DTC based on constant charging current => longer pre-charge time이 문제 
+				- DPD (Digital pre distortion)으로 DTC linearity calibration =>additional calibration time이 필요 
+				- FCW dithering => DTC resolution, linearity, and delay range 사이에 trade-off가 존재. => spur suppression performance
+	- <mark style="background: #FFB86CA6;">어떻게 해결했지.</mark>
+		- Main Idea/제안점: 
+			- 그래서 Calibration-free ADPLL에 PRNM (Pseudo random phase modulation) 방안을 추가하고자 함.
+				- => DPI 자체를 줄이는 방향이 아니라 decoupling of 
+			- 2개의 DPI (digital phase interpolator)로 각각 modulation, demodulatiom을 서로 correlation을 갖지 않고 이루도록 만듬
+				- Switched-cap. DPI
+					- CW+RNM 만큼 PI
+					- Time-domain에서 extra phase를 추가하는 방식으로 동작
+				- Charge-based DPI
+					- CW-RNM 만큼 PI
+					- SCDPI의 clock을 받아서 phase를 만듬 => IDAC을 FCW로 control 함으로써 phase를 조절함.
+	- <mark style="background: #FFB86CA6;">해결 결과는.</mark>
+		- 좋아진 점/수치적으로:
+			- key-parameters: Freq., Ref. Freq., Fractional spur (dBc), jitter, power
+				- Ref Freq.: 200MHz
+				- Freq. Range: 7.7-17.0 GHz
+				- No calibration => Fast freq. hopping & FMCW radar system에 적합
+				- Jitter: 163.4 fs
+				- Power: 18.2mW
+				- Fractional Spur.: <-80 dBc
+		- Trade-off: 
+			- area
+			- Spur로 나타나던 quantization error가 thermal로 나눠지며 nosie floor는 약간 높아진 효과.
+			- power, jitter => FoM이 별로임. (Power, jitter 성능만을 바탕으로 하는 FoM은 별로이고 freq. range를 고려하는 FoM은 좋음)
+
+Circuit:
+사진
+
+
+- 논문 리뷰를 하기 전에 확인해보자
+	- 1) Introduction을 잘 이해하고 있나?
+		- 연구 질문은 무엇이었을까?
+		- 기본적으로 어떤 application을 타겟으로 삼고 있는가?
+		- 해당 application이 필요로 하는 specification은 뭐가 있을까?
+		- 필요 spec.을 맞추기 위해서 conventional work들은 어떤 접근을 하였고 conventional work들의 단점/한계는 무엇인가?
+		- 그러면 해당 work은 conventional system의 어떤 문제를 해결하고자 하였는가?
+	- 만약 제대로 답변하지 못한다면 ref.를 파고 들어가자.
+	- 2) 과정 부분
+		- Fig.에 나와있는 회로들이 어떻게 연결되어 있는건가?
+		- 각 연결부분이 어떤 domin인지 & freq.로 작동하는지 표현할 수 있는가?
+		- 전체 시스템을 간단한 모델로 표현해보자.
+	- 3) 결론 부분
+		- 그래서 어떤 spec.이 얼마나 좋아졌는가?
+		- 해당 spec.이 좋아진 것에는 어떤 아이디어가 주요하게 작용하였는가?
+
+---
