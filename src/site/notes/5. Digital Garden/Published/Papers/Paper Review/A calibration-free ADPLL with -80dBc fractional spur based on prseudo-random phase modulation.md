@@ -45,23 +45,12 @@
 			- power, jitter => FoM이 별로임. (Power, jitter 성능만을 바탕으로 하는 FoM은 별로이고 freq. range를 고려하는 FoM은 좋음)
 
 Circuit:
-사진
-
-
-- 논문 리뷰를 하기 전에 확인해보자
-	- 1) Introduction을 잘 이해하고 있나?
-		- 연구 질문은 무엇이었을까?
-		- 기본적으로 어떤 application을 타겟으로 삼고 있는가?
-		- 해당 application이 필요로 하는 specification은 뭐가 있을까?
-		- 필요 spec.을 맞추기 위해서 conventional work들은 어떤 접근을 하였고 conventional work들의 단점/한계는 무엇인가?
-		- 그러면 해당 work은 conventional system의 어떤 문제를 해결하고자 하였는가?
-	- 만약 제대로 답변하지 못한다면 ref.를 파고 들어가자.
-	- 2) 과정 부분
-		- Fig.에 나와있는 회로들이 어떻게 연결되어 있는건가?
-		- 각 연결부분이 어떤 domin인지 & freq.로 작동하는지 표현할 수 있는가?
-		- 전체 시스템을 간단한 모델로 표현해보자.
-	- 3) 결론 부분
-		- 그래서 어떤 spec.이 얼마나 좋아졌는가?
-		- 해당 spec.이 좋아진 것에는 어떤 아이디어가 주요하게 작용하였는가?
+- 좌측 & 우측 위 => Conventional fractional-N DPLL and its' fractional spur suppression method through calibration
+- 우측 아래 => Proposed idea의 원리
+	- ![Pasted image 20250630185625.png|center](/img/user/0.%20TOOLS/00.%20Attechments/Pasted%20image%2020250630185625.png)
+- Proposed ADPLL
+	- ![Pasted image 20250630190018.png|center](/img/user/0.%20TOOLS/00.%20Attechments/Pasted%20image%2020250630190018.png)
+- 제안된 서로 다른 2개의 digital phase interpolator.
+	- ![Pasted image 20250630190040.png|center](/img/user/0.%20TOOLS/00.%20Attechments/Pasted%20image%2020250630190040.png)
 
 ---
