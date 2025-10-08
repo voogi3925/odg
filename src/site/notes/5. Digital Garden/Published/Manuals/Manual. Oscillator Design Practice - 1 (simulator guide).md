@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-digital-garden/published/manuals/manual-oscillator-design-practice-1-simulator-guide/","created":"2025-05-11T14:57:48.114+09:00"}
+{"dg-publish":true,"permalink":"/5-digital-garden/published/manuals/manual-oscillator-design-practice-1-simulator-guide/","created":"2025-09-11T13:46:39.485+09:00"}
 ---
 
 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-digital-garden/published/papers/papers-list-pll-fll-basic/","created":"2025-04-28T19:56:57.869+09:00"}
+{"dg-publish":true,"permalink":"/5-digital-garden/published/papers/papers-list-pll-fll-basic/","created":"2025-09-11T13:47:13.610+09:00"}
 ---
 
 

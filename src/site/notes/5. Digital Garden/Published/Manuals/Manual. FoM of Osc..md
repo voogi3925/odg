@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-digital-garden/published/manuals/manual-fo-m-of-osc/","created":"2025-05-12T19:48:15.871+09:00"}
+{"dg-publish":true,"permalink":"/5-digital-garden/published/manuals/manual-fo-m-of-osc/","created":"2025-09-11T13:47:04.949+09:00"}
 ---
 
 

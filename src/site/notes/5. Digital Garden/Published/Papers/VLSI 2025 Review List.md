@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-digital-garden/published/papers/vlsi-2025-review-list/","created":"2025-06-21T15:13:58.677+09:00"}
+{"dg-publish":true,"permalink":"/5-digital-garden/published/papers/vlsi-2025-review-list/","created":"2025-09-11T13:47:06.200+09:00"}
 ---
 
 

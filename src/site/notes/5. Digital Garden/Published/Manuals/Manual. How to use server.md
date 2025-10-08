@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-digital-garden/published/manuals/manual-how-to-use-server/","created":"2025-05-13T11:22:02.021+09:00"}
+{"dg-publish":true,"permalink":"/5-digital-garden/published/manuals/manual-how-to-use-server/","created":"2025-09-11T13:47:15.088+09:00"}
 ---
 
 
@@ -20,7 +20,11 @@
 ---------------
 ## tips
 - 다른 서버에서 작업하다가 lock걸렸을 경우.
-	- LOCK 풀기 => 'clsAdminTool' 치고 'are .' 입력 그 후 'quit'로 나가기
+	- LOCK 풀기
+		- library manager를 킨다 
+		- 기존 터미널(mobaXterm이든 뭐든 서버 접속하고 있는 프로그램에서)에 'clsAdminTool'
+		- 'are .' 입력으로 release edit locks (한칸 띄어쓰기 중요) 
+		- 'ale .' 입력으로 결과 확인하기
+		- 'quit' 로 나가기
 - 권한 없음이 뜨는 경우 ("Permission Denied")
 	- ls -al 로 파일 권한 확인
-	- 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-digital-garden/published/papers/paper-review/a-calibration-free-adpll-with-80d-bc-fractional-spur-based-on-prseudo-random-phase-modulation/","tags":["ADPLL","calibration_free","digital_phase_interpolator","pseudo_random_phase_modulation","digital_time_converter"],"created":"2025-06-21T15:13:04.210+09:00"}
+{"dg-publish":true,"permalink":"/5-digital-garden/published/papers/paper-review/a-calibration-free-adpll-with-80d-bc-fractional-spur-based-on-prseudo-random-phase-modulation/","tags":["ADPLL","calibration_free","digital_phase_interpolator","pseudo_random_phase_modulation","digital_time_converter"],"created":"2025-09-11T13:47:02.577+09:00"}
 ---
 
 --- 

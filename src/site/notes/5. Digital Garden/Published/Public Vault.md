@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-digital-garden/published/public-vault/","tags":["gardenEntry"],"created":"2025-04-07T00:32:00.480+09:00"}
+{"dg-publish":true,"permalink":"/5-digital-garden/published/public-vault/","tags":["gardenEntry"],"created":"2025-09-11T13:46:30.014+09:00"}
 ---
 
 ### Welcome

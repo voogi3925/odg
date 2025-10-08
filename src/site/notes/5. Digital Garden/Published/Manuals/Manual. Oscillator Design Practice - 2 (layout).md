@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-digital-garden/published/manuals/manual-oscillator-design-practice-2-layout/","created":"2025-05-13T16:02:13.222+09:00"}
+{"dg-publish":true,"permalink":"/5-digital-garden/published/manuals/manual-oscillator-design-practice-2-layout/","created":"2025-09-11T13:46:58.570+09:00"}
 ---
 
 
