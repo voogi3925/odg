@@ -9,6 +9,8 @@
 
 ---------------
 ## Study
+
+[[Paper Bases\|Paper Bases]]
 ### Paper review
 [[5. Digital Garden/Published/Papers/VLSI 2025 Review List\|VLSI 2025 Review List]]
 

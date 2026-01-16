@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-digital-garden/published/papers/paper-review/a-65nm-cmos-dcxo-system-for-generating-38-4-m-hz-and-a-real-time-clock-from-a-single-crystal-in-0-09mm2/","tags":["DCXO","RTC","low_power_XO","mobile_device_clock_generation","CMIC"],"created":"2025-09-11T13:46:29.524+09:00"}
+{"dg-publish":true,"permalink":"/5-digital-garden/published/papers/paper-review/a-65nm-cmos-dcxo-system-for-generating-38-4-m-hz-and-a-real-time-clock-from-a-single-crystal-in-0-09mm2/","tags":["DCXO","RTC","low_power_XO","mobile_device_clock_generation","CMIC","paper_review"],"created":"2025-09-11T13:46:29.524+09:00"}
 ---
 
 --- 

@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/5-digital-garden/published/papers/paper-review/a-sub-0-5-v-crystal-oscillator-timer-xo-timer-combining-16-m-hz-reference-and-32k-hz-sleep-timer-with-a-single-crystal-for-energy-harvesting-radios-in-28nm-cmos/","tags":["SXDO","ULV","dual_mode_XO"],"created":"2025-10-09T14:08:54.258+09:00"}
+{"dg-publish":true,"permalink":"/5-digital-garden/published/papers/paper-review/a-sub-0-5-v-crystal-oscillator-timer-xo-timer-combining-16-m-hz-reference-and-32k-hz-sleep-timer-with-a-single-crystal-for-energy-harvesting-radios-in-28nm-cmos/","tags":["SXDO","ULV","dual_mode_XO","paper_review"],"created":"2025-10-09T14:08:54.258+09:00"}
 ---
 
 --- 
